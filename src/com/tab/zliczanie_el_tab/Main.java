@@ -1,5 +1,4 @@
-
-	package com.tab.zliczanie_el_tab;
+package com.tab.zliczanie_el_tab;
 
         public class Main {
 
@@ -18,5 +17,4 @@
                 System.out.println("Suma el. tab. to " +wynik);
             }
         }
-
 
